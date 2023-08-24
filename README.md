@@ -1,23 +1,21 @@
 # package_name
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+Image processing package
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install test-img-prc-0001
 
 ```bash
-pip install package_name
+pip test-img-prc-0001
 ```
 
 ## Usage
 
 ```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
+from test-img-prc-0001 import processing
+processing.combination()
 ```
 
 ## Author
